@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a532e7e1-74e9-4971-83a2-16923605a3ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/VehicleWithEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/enums/CarClassification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/enums/EngineType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/homeworks/vehicles/enums/TransportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/retailstore/RetailStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/retailstore/people/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/retailstore/people/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/retailstore/people/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/StarWarsCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/enums/JediTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/enums/MovieName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/enums/SithTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/starwars/enums/Species.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/homeworks/planetenumstest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/homeworks/vehicles/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/retailstoretest/RetailStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/starwarstest/MovieTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/starwarstest/StarWarsCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/bubbles/Bubbles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/bubbles/BubblesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lukek/Downloads/gfm-plugin-0.2.0.zip&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/lukek/Downloads/gfm-plugin-0.2.0.zip",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sparta.oop.homeworks.vehicles" />
@@ -91,72 +63,81 @@
       <recent name="com.sparta.enums" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainProgram">
-    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProgram" />
-      <module name="OOPStuffs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarTest.gemeraTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BubblesTest.bubbleSortTestFour">
+    <configuration name="BubblesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.oop.homeworks.vehicles.enums.*" />
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.oop.homeworks.vehicles" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.homeworks.vehicles.CarTest" />
-      <option name="METHOD_NAME" value="gemeraTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="planetenumstest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOPStuffs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.oop.homeworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.oop.homeworks" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.homeworks.planetenumstest" />
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="planetenumstest.neptuneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BubblesTest.bubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.oop.homeworks.*" />
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.oop.homeworks" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.homeworks.planetenumstest" />
-      <option name="METHOD_NAME" value="neptuneTest" />
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
+      <option name="METHOD_NAME" value="bubbleSortTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="planetenumstest.somethingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BubblesTest.bubbleSortTestFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sparta.oop.homeworks.*" />
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.oop.homeworks" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.homeworks.planetenumstest" />
-      <option name="METHOD_NAME" value="somethingTest" />
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
+      <option name="METHOD_NAME" value="bubbleSortTestFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubblesTest.bubbleSortTestThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPStuffs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
+      <option name="METHOD_NAME" value="bubbleSortTestThree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubblesTest.bubbleSortTestTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPStuffs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
+      <option name="METHOD_NAME" value="bubbleSortTestTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainProgram" />
-        <item itemvalue="JUnit.planetenumstest.somethingTest" />
-        <item itemvalue="JUnit.planetenumstest" />
-        <item itemvalue="JUnit.CarTest.gemeraTest" />
-        <item itemvalue="JUnit.planetenumstest.neptuneTest" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestFour" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestTwo" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTest" />
+        <item itemvalue="JUnit.BubblesTest" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestThree" />
       </list>
     </recent_temporary>
   </component>
