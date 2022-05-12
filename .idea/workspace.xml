@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a532e7e1-74e9-4971-83a2-16923605a3ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/bubbles/Bubbles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/bubbles/BubblesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/oop/bubbles/Bubbles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/oop/bubbles/Bubbles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sparta/oop/bubbles/BubblesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sparta/oop/bubbles/BubblesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,7 +62,7 @@
       <recent name="com.sparta.enums" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BubblesTest.bubbleSortTestFour">
+  <component name="RunManager" selected="JUnit.BubblesTest">
     <configuration name="BubblesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
@@ -79,7 +78,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubblesTest.bubbleSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BubblesTest.bubbleSortTestFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
         <pattern>
@@ -89,7 +88,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
       <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
-      <option name="METHOD_NAME" value="bubbleSortTest" />
+      <option name="METHOD_NAME" value="bubbleSortTestFive" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +110,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BubblesTest.bubbleSortTestSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OOPStuffs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
+      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
+      <option name="METHOD_NAME" value="bubbleSortTestSix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BubblesTest.bubbleSortTestThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OOPStuffs" />
       <extension name="coverage">
@@ -127,28 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubblesTest.bubbleSortTestTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OOPStuffs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sparta.oop.bubbles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.sparta.oop.bubbles" />
-      <option name="MAIN_CLASS_NAME" value="com.sparta.oop.bubbles.BubblesTest" />
-      <option name="METHOD_NAME" value="bubbleSortTestTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BubblesTest.bubbleSortTestFour" />
-        <item itemvalue="JUnit.BubblesTest.bubbleSortTestTwo" />
-        <item itemvalue="JUnit.BubblesTest.bubbleSortTest" />
         <item itemvalue="JUnit.BubblesTest" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestSix" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestFive" />
+        <item itemvalue="JUnit.BubblesTest.bubbleSortTestFour" />
         <item itemvalue="JUnit.BubblesTest.bubbleSortTestThree" />
       </list>
     </recent_temporary>
